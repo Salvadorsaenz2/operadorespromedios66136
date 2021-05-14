@@ -6,8 +6,12 @@
 package operadorepromedios_66136;
 
 /**
- *
- * @author salva
+ *@version 1.0
+ * @13/05/2021
+ * @code 
+ * @author salvador Moises Alberto Valle Saenz 
+ * @ Matricula 66136
+
  */
 public class OperadorePromedios_66136 {
 
